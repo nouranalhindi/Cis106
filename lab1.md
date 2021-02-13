@@ -33,7 +33,7 @@ Go to [Distrowatch](https://distrowatch.com/). Explore the website to get famili
 ### Question 2
 On the top left corner, click on “Random Distribution” and answer the following questions from the distro you got.
 1. What is the name of the distribution and the OS Type: 
-   * **linux**
+   * **linux, supergamer**
 
 2. Which major distro is it based on?  
    * **Debian, Ubuntu**
